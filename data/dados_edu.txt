@@ -1,0 +1,16 @@
+ano
+id_municipio
+localizacao
+rede
+atu_ef
+atu_em
+tdi_ef
+tdi_em
+taxa_aprovacao_ef
+taxa_aprovacao_em
+taxa_reprovacao_ef
+taxa_reprovacao_em
+taxa_abandono_ef
+taxa_abandono_em
+tnr_ef
+tnr_em
